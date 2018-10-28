@@ -8,4 +8,9 @@ public class GitDemo {
         System.out.println("hello,git");
         System.out.println("hello,git");
     }
+
+    public void demo(){
+        int a = 10;
+        a += 20;
+    }
 }
